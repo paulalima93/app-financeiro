@@ -1,4 +1,4 @@
-\# 💰 Projeto Pedagógico: App Minhas Finanças
+# 💰 Projeto Pedagógico: App Minhas Finanças
 
 
 
@@ -6,7 +6,7 @@ Este repositório contém um projeto educacional focado no desenvolvimento de um
 
 
 
-\## 🎯 Objetivos de Aprendizagem
+## 🎯 Objetivos de Aprendizagem
 
 
 
@@ -14,7 +14,7 @@ A construção deste aplicativo proporciona o desenvolvimento prático das segui
 
 
 
-\### 🧱 HTML5 (Estruturação e Captura de Dados)
+### 🧱 HTML5 (Estruturação e Captura de Dados)
 
 \* \*\*Formulários Dinâmicos:\*\* Uso de diferentes tipos de inputs (`text`, `number`, `radio`) para coleta de dados específicos.
 
@@ -24,7 +24,7 @@ A construção deste aplicativo proporciona o desenvolvimento prático das segui
 
 
 
-\### 🎨 CSS3 (Estilização de Estados e Usabilidade)
+### 🎨 CSS3 (Estilização de Estados e Usabilidade)
 
 \* \*\*Feedback Visual de Dados:\*\* Aplicação dinâmica de classes utilitárias (`.positivo`, `.negativo`) baseadas nos valores das transações financeiras.
 
@@ -36,7 +36,7 @@ A construção deste aplicativo proporciona o desenvolvimento prático das segui
 
 
 
-\### ⚙️ JavaScript (Lógica de Negócios e Persistência)
+### ⚙️ JavaScript (Lógica de Negócios e Persistência)
 
 \* \*\*Armazenamento Local (LocalStorage):\*\* Gravação e recuperação de dados de forma persistente diretamente no navegador do usuário.
 
@@ -52,7 +52,7 @@ A construção deste aplicativo proporciona o desenvolvimento prático das segui
 
 
 
-\## 🚀 Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 
 
 
@@ -64,7 +64,7 @@ A construção deste aplicativo proporciona o desenvolvimento prático das segui
 
 
 
-\## 📁 Estrutura do Projeto
+## 📁 Estrutura do Projeto
 
 
 
@@ -82,7 +82,7 @@ A construção deste aplicativo proporciona o desenvolvimento prático das segui
 
 
 
-\## 💻 Como Executar e Estudar
+## 💻 Como Executar e Estudar
 
 
 
