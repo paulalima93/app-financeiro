@@ -16,11 +16,11 @@ A construção deste aplicativo proporciona o desenvolvimento prático das segui
 
 ### 🧱 HTML5 (Estruturação e Captura de Dados)
 
-\* \*\*Formulários Dinâmicos:\*\* Uso de diferentes tipos de inputs (`text`, `number`, `radio`) para coleta de dados específicos.
+ \*\*Formulários Dinâmicos:\*\* Uso de diferentes tipos de inputs (`text`, `number`, `radio`) para coleta de dados específicos.
 
-\* \*\*Controles de Seleção:\*\* Implementação de radio buttons agrupados (atributo `name`) para garantir escolhas exclusivas (Entrada vs. Saída).
+ \*\*Controles de Seleção:\*\* Implementação de radio buttons agrupados (atributo `name`) para garantir escolhas exclusivas (Entrada vs. Saída).
 
-\* \*\*Preparação de Containers:\*\* Estruturação de listas (`<ul>`) vazias que atuam como "âncoras" para o conteúdo gerado de forma dinâmica.
+ \*\*Preparação de Containers:\*\* Estruturação de listas (`<ul>`) vazias que atuam como "âncoras" para o conteúdo gerado de forma dinâmica.
 
 
 
