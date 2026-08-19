@@ -48,14 +48,14 @@ A construção deste aplicativo proporciona o desenvolvimento prático das segui
 
 ```text
 /
-├── index_2.html
-├── script_2.js
-└── styles_2.css
+├── index2.html
+├── script2.js
+└── styles2.css
 ```
 
 ## 💻 Como Executar e Estudar
 
 1. Faça o download ou clone este repositório na sua máquina.
-2. Dê um duplo clique no arquivo `index_2.html` para executá-lo no navegador.
+2. Dê um duplo clique no arquivo `index2.html` para executá-lo no navegador.
 3. Teste a aplicação inserindo descrições, valores e marcando entradas e saídas.
 4. **Dica de Estudo (LocalStorage):** Aperte `F12` no navegador para abrir as ferramentas de desenvolvedor, acesse a aba *Application* (ou *Aplicativo*) > *Local Storage*, e observe como os dados são gravados em tempo real ao utilizar a aplicação.
