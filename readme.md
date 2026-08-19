@@ -46,7 +46,7 @@ A construção deste aplicativo proporciona o desenvolvimento prático das segui
 
 ## 📁 Estrutura do Projeto
 
-```text
+
 /
 ├── index_2.html
 ├── script_2.js
