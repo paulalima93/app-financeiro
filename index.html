@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Minhas Finanças</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="card">
+        <h2 id="titulo-app">App Financeiro</h2>
+        
+        <div class="saldo-box">
+            <span id="texto-saldo">R$ 0,00</span>
+        </div>
+        
+        <!-- Botões de Filtro -->
+        <div class="filtros">
+    		<button id="btn-todos" class="ativo" onclick="filtrarApp('todos')">Todos</button>
+    		<button id="btn-receitas" onclick="filtrarApp('receitas')">Entradas</button>
+    		<button id="btn-despesas" onclick="filtrarApp('despesas')">Saídas</button>
+	</div>
+
+        <!-- Formulário de Adição -->
+        <div class="form-control">
+            <input type="text" id="descricao" placeholder="Descrição (ex: Salário, Mercado)">
+            <input type="number" id="valor" placeholder="Valor (ex: 50.00)">
+            
+            <!-- Radio Buttons (A lógica do Math.abs) -->
+            <div style="margin: 10px 0; display: flex; gap: 20px; justify-content: center;">
+                <label><input type="radio" name="tipo" id="radio-entrada" checked> 📈 Entrada</label>
+                <label><input type="radio" name="tipo" id="radio-saida"> 📉 Saída</label>
+            </div>
+
+            <button id="btn-adicionar">Adicionar Transação</button>
+        </div>
+
+        <!-- Lista onde as transações vão aparecer -->
+        <ul id="lista-transacoes"></ul>
+    </div>
+
+    <!-- Importando o arquivo JS -->
+    <script src="script.js"></script>
+</body>
+</html>
